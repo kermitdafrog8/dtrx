@@ -16,4 +16,4 @@ dtrx: that's named after the archive.  dtrx will also change the
 dtrx: permissions to ensure that the owner can read and write all those
 dtrx: files.
 dtrx:
-dtrx: website: http://brettcsmith.org/2007/dtrx/
+dtrx: website: https://github.com/dtrx-py/dtrx/

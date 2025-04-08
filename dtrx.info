@@ -1,6 +1,6 @@
 PRGNAM="dtrx"
 VERSION="8.5.3"
-HOMEPAGE="https://github.com/brettcs/dtrx"
+HOMEPAGE="https://github.com/dtrx-py/dtrx/"
 DOWNLOAD="https://github.com/dtrx-py/dtrx/releases/download/8.5.3/dtrx-8.5.3.tar.gz"
 MD5SUM="cc1039aff57398b8c31a255ddaf5c737"
 DOWNLOAD_x86_64=""
